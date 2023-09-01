@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stanley4000
+- 👋 Hi, I’m Stan
 - 👀 I’m interested in learning everything about backend development and OOP
-- 🌱 I’m currently learning Python, C, and working with Linux
+- 🌱 I’m currently learning Python, C, Bash and working across Linux and Windows environments
 - 💞️ I’m looking to collaborate on educational software (assessments and gamified practice tools) as well as tools for gaming (esp. TTRPG like Pathfinder or D&D)
 
 
